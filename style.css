@@ -236,3 +236,12 @@ span sup {
 	transform: translate(-50%, -50%);
 	display: none;
 }
+
+.paragraph{
+	
+}
+
+li{
+	font-size: 1.8em;
+	margin-bottom: .5em
+}
